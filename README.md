@@ -1,5 +1,8 @@
 # VAHLT organization profile
 
+<img width="600" height="115" alt="image" src="https://github.com/user-attachments/assets/f2fada23-f9c8-4903-af63-9acf7dad13a8" />
+
+
 Public profile and approved visual assets for [VAHLT](https://github.com/vahlt-engine), an Encapsa business developing AI security infrastructure.
 
 The organization overview is maintained in [`profile/README.md`](profile/README.md). Its two flagship research programs are **Prepared Prompts** and **Agent Trust Exchange**.
